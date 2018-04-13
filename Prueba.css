@@ -1,0 +1,78 @@
+
+body{border:5px solid black;
+	margin-bottom: 20px;
+	font-family: "adriane", Georgia, serif;
+}
+/*.Cabeza{
+	margin: 30px auto;
+
+}*/	
+header{
+	padding-top: 50px;
+	max-width: 1280px;
+  	margin-left: auto;
+	margin-right: auto;
+	font-family: "adriane", Georgia, serif;
+}
+ul{
+	/*list-style: none;
+	display: block;
+	float: right;*/
+	padding-top: 1.5px;
+	float: right;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+a{  text-decoration: none;
+	color: black;
+	float: left;
+	margin-left: 2em;
+	list-style: none;
+}
+
+section{
+	padding-top: 2px;
+}
+.Enunciado{
+	padding-top: 50px;
+	padding-left: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Foto{
+	/*margin-bottom: 40px;*/
+	max-width: 1325px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h4{
+	color: orange;
+}
+.Superior{
+	padding-left: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Inferior{
+	padding-left: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Pie{
+	border-top: 1px solid grey;
+	text-align: center;
+
+
+}
+.Emil{
+	padding-bottom: 25px;
+}
+button{
+
+}
+.Copyright{
+	border-top: 1px solid grey;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
